@@ -1,7 +1,8 @@
 # 📊 Social Media Data Analytics Pipeline (Reddit)
 
 ## 📌 Overview
-This project processes and analyzes social media data (posts & comments) Using **Reddit API** (PRAW) to:
+This project processes and analyzes social media data (posts & comments) Using **Reddit API  (PRAW)** **Subreddit: r/Machine Learning** to:
+
 - Identify **top contributing authors**.
 - Detect **trending topics** based on keywords.
 - Track **category trends over time**.
