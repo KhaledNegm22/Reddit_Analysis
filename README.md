@@ -13,7 +13,7 @@ This project processes and analyzes social media data (posts & comments) Using *
 ## 🛠️ Tech Stack
 
 - **Databricks** → Unified analytics platform for running PySpark jobs, managing Delta Lake tables and creating Visualizations.
-- - **PRAW** – Reddit API client
+- **PRAW** – Reddit API client
 - **PySpark** → Distributed data processing.
 - **Delta Lake** → Versioned data storage with ACID transactions.
 - **SQL** → Aggregations & analytics.
