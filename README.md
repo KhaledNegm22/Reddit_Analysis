@@ -62,7 +62,7 @@ Trending Topics Over Time
 | 2024-01 | ML       | 120      |
 | 2024-01 | DL       | 80       |
  
-**NOTE**: You can find the Visualization as jpeg file in the repo.
+**NOTE**: You can find the Visualization as .jpg files in the repo.
 
 -----------------------------------------------------------
 
