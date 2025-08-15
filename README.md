@@ -70,7 +70,7 @@ Trending Topics Over Time
 
 ## 💡 Future Improvements
 
- ### Add sentiment analysis on posts/comments.
+ ### Add sentiment analysis on posts/comments to answer more complex business questions.
 
 
  
