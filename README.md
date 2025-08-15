@@ -29,6 +29,14 @@ This project processes and analyzes social media data (posts & comments) Using *
 - Load **raw posts** and **comments**
 - Save them as **Delta tables** (`posts_bronze`, `comments_bronze`).
 
+> **Note:**  
+> Reddit API has a rate limit. If you send too many requests quickly, you might get an error (e.g., `prawcore.exceptions.RequestException` or `Too Many Requests`).  
+> This is normal — the notebook is designed to fetch data in chunks.  
+> If you see such an error:
+> 1. Wait a few seconds.
+> 2. **Re-run the same cell**.  
+> The script will continue from where it left off and append new data.
+
 ---
 
 ### Silver Layer – Data Cleaning & Transformation
