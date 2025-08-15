@@ -1,7 +1,7 @@
-# 📊 Social Media Data Analytics Pipeline
+# 📊 Social Media Data Analytics Pipeline (Reddit)
 
 ## 📌 Overview
-This project processes and analyzes social media data (posts & comments) to:
+This project processes and analyzes social media data (posts & comments) Using **Reddit API** (PRAW) to:
 - Identify **top contributing authors**.
 - Detect **trending topics** based on keywords.
 - Track **category trends over time**.
@@ -24,7 +24,7 @@ This project processes and analyzes social media data (posts & comments) to:
 
 ### Bronze Layer – Data Ingestion
 
-- Load **raw posts** and **comments** from Reddit API (PRAW).
+- Load **raw posts** and **comments**
 - Save them as **Delta tables** (`posts_bronze`, `comments_bronze`).
 
 ---
